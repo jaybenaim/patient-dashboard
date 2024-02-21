@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [Demo](https://patient-dashboard-bay.vercel.app/)
+- [Demo](https://patient-dashboard-delta.vercel.app)
 - [Tech Stack](#tech-stack)
 - [How it works](#how-it-works)
 - [Getting Started Locally](#getting-started-locally)
@@ -32,7 +32,7 @@
 
 ## Demo
 
-View the [Demo](https://patient-dashboard-bay.vercel.app/)
+View the [Demo](https://patient-dashboard-delta.vercel.app)
 
 ## Tech Stack
 
@@ -60,7 +60,7 @@ The Patient Management Dashboard is built using the following technologies:
 
 - [Vercel](https://vercel.com/): A platform for deploying and hosting web applications. We use Vercel to deploy the Patient Management Dashboard.
 
-View the [Demo](https://patient-dashboard-bay.vercel.app/)
+View the [Demo](https://patient-dashboard-delta.vercel.app)
 
 ### Version Control
 
@@ -75,7 +75,7 @@ View the [Demo](https://patient-dashboard-bay.vercel.app/)
 
 ## How it works
 
-1. Sign up [Here](https://patient-dashboard-bay.vercel.app/)
+1. Sign up [Here](https://patient-dashboard-delta.vercel.app)
 2. Add a patient by clicking the blue button labelled `Add patient`
 3. Add multiple addresses by clicking `Add address`
 4. Add custom fields by clicking `Add custom field`; Select the field type either `text` or `number`
